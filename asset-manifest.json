@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/maxwellbenton/all-day-play/static/css/main.c9b6575a.chunk.css",
+    "main.js": "/maxwellbenton/all-day-play/static/js/main.13f7fa59.chunk.js",
+    "main.js.map": "/maxwellbenton/all-day-play/static/js/main.13f7fa59.chunk.js.map",
+    "runtime-main.js": "/maxwellbenton/all-day-play/static/js/runtime-main.034700a5.js",
+    "runtime-main.js.map": "/maxwellbenton/all-day-play/static/js/runtime-main.034700a5.js.map",
+    "static/js/2.36b268bb.chunk.js": "/maxwellbenton/all-day-play/static/js/2.36b268bb.chunk.js",
+    "static/js/2.36b268bb.chunk.js.map": "/maxwellbenton/all-day-play/static/js/2.36b268bb.chunk.js.map",
+    "static/js/3.6d5a4abe.chunk.js": "/maxwellbenton/all-day-play/static/js/3.6d5a4abe.chunk.js",
+    "static/js/3.6d5a4abe.chunk.js.map": "/maxwellbenton/all-day-play/static/js/3.6d5a4abe.chunk.js.map",
+    "index.html": "/maxwellbenton/all-day-play/index.html",
+    "static/css/main.c9b6575a.chunk.css.map": "/maxwellbenton/all-day-play/static/css/main.c9b6575a.chunk.css.map",
+    "static/js/2.36b268bb.chunk.js.LICENSE.txt": "/maxwellbenton/all-day-play/static/js/2.36b268bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/maxwellbenton/all-day-play/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.034700a5.js",
+    "static/js/2.36b268bb.chunk.js",
+    "static/css/main.c9b6575a.chunk.css",
+    "static/js/main.13f7fa59.chunk.js"
+  ]
+}
